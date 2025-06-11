@@ -89,5 +89,8 @@ The DWASM ensemble assigns dynamic weights to each model based on real-time accu
 
 📄 Authors
 Seelam Sriram chaitanya
-Navtej Tiwari
-Ganta Sriram Pavan
+
+
+For any Queries
+Contact-sriramchaitu383@gmail.com
+
