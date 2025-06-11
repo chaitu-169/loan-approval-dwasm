@@ -1,6 +1,6 @@
 # 🏦 Loan Approval Prediction using DWASM
 
-This project implements a **loan approval prediction system** using a custom ensemble model called **DWASM** (Dynamic Weighted Adaptive Stacking Model). It predicts whether a loan application will be approved or rejected, based on applicant financial data.
+This project implements a **loan approval prediction system** using a custom ensemble model called **DWASM** (Dynamic Weighted Adaptive Stacking Model). It predicts whether a loan application will be approved or rejected, based on applicant financial data. It also points out which areas are contributing more via Graphs and data in decision which helps users to settle it before requesting in the Bank.
 
 ## 📌 Project Highlights
 
@@ -89,7 +89,6 @@ The DWASM ensemble assigns dynamic weights to each model based on real-time accu
 
 📄 Authors
 Seelam Sriram chaitanya
-
 
 For any Queries
 Contact-sriramchaitu383@gmail.com
